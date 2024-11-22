@@ -26,7 +26,7 @@ SET(libftgl_la_SOURCES
     FTGlyphContainer.h
     FTInternals.h
     FTLibrary.cpp
-    FTLibrary.h
+    #FTLibrary.h
     FTList.h
     FTPoint.cpp
     FTSize.cpp
